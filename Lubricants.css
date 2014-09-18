@@ -6,6 +6,8 @@
 
 #container{
 	width: 1440px;
+	font-family: Helvetica;
+	font-size: 12px;
 }
 
 #header{
@@ -105,10 +107,19 @@ min-width: 240px;
 	background-color: yellow;
 	height: 25px;
 	vertical-align:top;
+	color: black;
+	font-size: 12px;
 }
 
 #about p{
+
 	font-weight: normal;
+	font-size: 19px;
+	text-indent: right;
+}
+#about strong{
+	padding-left: 10px;
+	margin-top: 10px;
 }
 
 #lowerpart{
